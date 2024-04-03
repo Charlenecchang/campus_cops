@@ -3,3 +3,4 @@
 # sophia mai
 # Charlene Chang
 # Dev Dhawan
+# Thuy Nguyen
